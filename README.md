@@ -26,7 +26,7 @@ Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool dev
 ![Banner](https://solara-executor.com/wp-content/uploads/2024/05/Solara-Executor.png)
 
 
-- **✔️ Improved bootstrapper.** 
+ ### ✔️ Improved bootstrapper. 
    - _**Extra customizability** options and **advanced settings** included._ 
 
 
