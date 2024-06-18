@@ -101,7 +101,7 @@ Solara is completely free and open source (**FOSS**) meaning that its source cod
 
 **Why do I need to disable AV (Antivirus)**
 
-Windows Defender falsely flags our software due to its functionality. This is common in virtually every single executor existing and defunct such as Krnl,Oxygen U, Kiwi X and much more. All Roblox executors need to inject within the roblox process to hide detection by Roblox anticheat (Byfron). This isn't a 'defect' isolated to Solara. Every single executor existing and defucnt require you to disable AV due to the aforementioned reason. This improper flagging is commonly known as a [False Positive]([url](https://support.avira.com/hc/en-us/articles/360002183358-What-is-a-false-positive-Avira-Antivirus-detection))
+Windows Defender falsely flags Solara due to anti-cheat bypass functionality. This is common in virtually every single executor existing and defunct such as Krnl,Oxygen U, Kiwi X and much more. All Roblox executors need to inject within the roblox process to hide detection by Roblox anticheat (Byfron). This isn't a 'defect' isolated to Solara. Every single executor existing and defucnt require you to disable AV due to the aforementioned reason. This improper flagging is commonly known as a [False Positive]([url](https://support.avira.com/hc/en-us/articles/360002183358-What-is-a-false-positive-Avira-Antivirus-detection))
 
 > False positives (false alarms) are harmless files or URLs that are incorrectly identified as malicious by the antivirus program. Software programs that behave like malware or use identical file compression and protection techniques are susceptible to false alarms.
 
