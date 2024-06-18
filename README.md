@@ -105,22 +105,28 @@ Solara is completely free and open source (**FOSS**) meaning that its source cod
 
 ### Change Log Version 2.33 - 2.35
 
- ```- Fixed getscriptbytecode on LocalScripts
-    - Vuln mitigation
-    - Removed incorrect link```
+ ```
+- Fixed getscriptbytecode on LocalScripts
+- Vuln mitigation
+- Removed incorrect link
+```
 
 ### Change Log Version 2.45-2.55
  
- ```- Fixed bootstrapper Solara.dir issue
-    - Improved GUI
-    - Fixed RCE```
+ ```
+- Fixed bootstrapper Solara.dir issue
+- Improved GUI
+- Fixed RCE
+```
 
 
 ### Change Log Version 2.55 - 2.83
 
- ```- Fixed Solara baseplate issue
-    - Optimized for lower end devices.
-    - Increase customizability.```
+ ```
+- Fixed Solara baseplate issue
+- Optimized for lower end devices.
+- Increase customizability.
+```
   
 
 > [!NOTE]
