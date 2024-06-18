@@ -7,6 +7,9 @@
 ## INFO
 ![Banner](img/Screenshot_2024-06-18-15-58-34-718_com.discord.png)
 
+## ABOUT!
+Solara is a powerful Roblox exploit developed by expert programmers since 2023. It offers a wide range of advanced features, making it a popular choice among users for its reliability and efficiency. With continuous updates and improvements, Solara remains at the forefront of Roblox exploitation tools.
+
 
 ## Features!
 - Bug fixes.
