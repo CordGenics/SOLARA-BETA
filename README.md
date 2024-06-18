@@ -75,7 +75,7 @@ After that, unzip the file using WinRAR or 7-Zip.
 > [!TIP]
 > Running with admistrator permissions helps fix injection issues. 
 
-### Q&A
+## Q&A
 
 **Why do I need to disable AV (Antivirus)**
 
@@ -100,15 +100,15 @@ Solara is completely free and open source (**FOSS**) meaning that its source cod
 
 ### Change Log Version 2.45-2.55
  
-```- Fixed bootstrapper Solara.dir issue
-   - Improved GUI
-   - Fixed RCE ```
+``` - Fixed bootstrapper Solara.dir issue
+    - Improved GUI
+    - Fixed RCE ```
 
 ### Change Log Version 2.55 - 2.83
 
-```- Fixed Solara baseplate issue
-   - Optimized for lower end devices.
-   - Increase customizability ```
+``` - Fixed Solara baseplate issue
+    - Optimized for lower end devices.
+    - Increase customizability ```
   
 
 > [!NOTE]
