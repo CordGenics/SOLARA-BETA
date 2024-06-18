@@ -13,9 +13,9 @@ Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool dev
 
 
 ## STATISTICS 📈
-• 50,000 **Monthly Active users**
+• **50,000** **Monthly Active users**
 
-• 1,000,000 **Total downloads**
+• **1,000,000** **Total downloads**
 
 • **99.42%** **Up-time**
 
@@ -25,21 +25,20 @@ Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool dev
 - **✔️ Improved bootstrapper.** 
    - _**Extra customizability** options and **advanced settings** included._ 
 
-
 - **✔️ Enhanced backdoor injection.** - 
-   - *No detection assurance.**
+   - *No detection assurance.*
 
 - **✔️ Generate payloads in various formats.** 
    - _Save your scripts in .lua, .txt or any other format._
 
 - **✔️ Bypassed Byfron.** 
-   - (Works in base Roblox Client. **0 detections** reported by over 50,000 active users.)
+   - _(Works in base Roblox Client. **0 detections** reported by over 50,000 active users.)_
 
 - **✔️ New GUI.** 
-    - _Seamless GUI developed based upon minimalist principles._ 
+    - _Seamless GUI developed based upon **minimalist** principles._ 
 
 - **✔️ Ability to search for updated scripts.** 
-   - _** Built in script library** for ease of access._ 
+   - _**Built in script library** for ease of access._ 
 
 - **✔️ Automatically runs injector**
    - _(configurable in settings)._
@@ -106,15 +105,15 @@ Solara is completely free and open source (**FOSS**) meaning that its source cod
 
 ### Change Log Version 2.33 - 2.35
 
-    - Fixed getscriptbytecode on LocalScripts
+``` - Fixed getscriptbytecode on LocalScripts
     - Vuln mitigation
-    - Removed incorrect link
+    - Removed incorrect link ```
 
 ### Change Log Version 2.45-2.55
  
 ``` - Fixed bootstrapper Solara.dir issue
-    - Improved GUI
-    - Fixed RCE ```
+ - Improved GUI
+ - Fixed RCE ```
 
 
 ### Change Log Version 2.55 - 2.83
