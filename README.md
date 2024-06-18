@@ -5,7 +5,7 @@
 [![Stage](https://img.shields.io/badge/Release-Testing-brightgreen.svg)]()
 
 ## INFO
-![Banner](https://user-images.githubusercontent.com/17976841/65820028-6ae17e00-e24e-11e9-894f-35836481cc2c.png)
+![Banner]([https://user-images.githubusercontent.com/17976841/65820028-6ae17e00-e24e-11e9-894f-35836481cc2c.png](https://raw.githubusercontent.com/CordGenics/SOLARA-BETA/main/img/Screenshot_2024-06-18-15-58-34-718_com.discord.webp))
 SOLARA BETA BREACHED BY CORDGENICS
 
 ## DISCLAIMER
