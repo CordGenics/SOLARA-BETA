@@ -4,10 +4,11 @@
 [![Version](https://img.shields.io/badge/Codename-Target-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Testing-brightgreen.svg)]()
 
-## INFO
-![Banner](img/Screenshot_2024-06-18-15-58-34-718_com.discord.png)
+
 
 ## ABOUT 
+![Banner](img/Screenshot_2024-06-18-15-58-34-718_com.discord.png)
+
 Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool developed since 2023. It is one of the most popular Roblox executors with the largest exploit community. It is currently **UNDETECTABLE** by Byfron (Roblox Anticheat).
 
 
