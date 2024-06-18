@@ -9,8 +9,7 @@
 ## ABOUT 
 ![Banner](img/Screenshot_2024-06-18-15-58-34-718_com.discord.png)
 
-Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool developed since 2023. It is one of the most popular Roblox executors with the largest exploit community. It is currently **UNDETECTABLE** by Byfron (Roblox Anticheat).
-
+Solara is a powerful FOSS (Free and Open Source) exploit project conceived in 2023. It has Level 3 Executor functionality and is optimized to support lower end hardware. It is fully Open Source and the code is structured and labeled for community commits. Solara has quickly grown to be **THE** place for exploit discussion, exploit development and showcases ammasing over 50,000 Monthly Active users during the fall of 2023.  
 
 ## STATISTICS 📈
 • **50,000** **Monthly Active users**
@@ -95,6 +94,11 @@ After that, unzip the file using WinRAR or 7-Zip.
 
 ## Q&A
 
+**is Solara safe?** 
+
+Solara is completely free and open source (**FOSS**) meaning that its source code is **publicablly availble** to read and edit making viruses **IMPOSSIBLE** to obfuscate. It is also the longest continously working exploits since 2023. Relative to other executors, Solara is the only existing executor that is FOSS.
+
+
 **Why do I need to disable AV (Antivirus)**
 
 Windows Defender falsely flags our software due to its functionality. This is common in virtually every single executor existing and defunct such as Krnl,Oxygen U, Kiwi X and much more. All Roblox executors need to inject within the roblox process to hide detection by Roblox anticheat (Byfron). This isn't a 'defect' isolated to Solara. Every single executor existing and defucnt require you to disable AV due to the aforementioned reason. This improper flagging is commonly known as a [False Positive]([url](https://support.avira.com/hc/en-us/articles/360002183358-What-is-a-false-positive-Avira-Antivirus-detection))
@@ -103,9 +107,6 @@ Windows Defender falsely flags our software due to its functionality. This is co
 
 _Source: Avira, Awardwinning Information Security research and mitigation company._ 
 
-**is Solara safe?** 
-
-Solara is completely free and open source (**FOSS**) meaning that its source code is **publicablly availble** to read and edit making viruses **IMPOSSIBLE** to obfuscate. It is also the longest continously working exploits since 2023. Relative to other executors, Solara is the only existing executor that is FOSS.
 
 
 ## CHANGELOGS
