@@ -15,7 +15,7 @@ Solara is a powerful Roblox exploit developed by expert programmers since 2023. 
 - **Free Level 3 Executor**: Access advanced features of the Solara Executor completely free of charge.
 
 ## Features!
-[![Version](https://img.shields.io/badge/featuring-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/featuring-blue.svg?maxAge=259200)]()
 - Bug fixes.
 - Improved bootstrapper.
 - Enhanced backdoor injection.
