@@ -20,6 +20,13 @@ Solara is a powerful Roblox exploit developed by expert programmers since 2023. 
 - New GUI.
 - Ability to search for updated scripts.
 - Automatically runs injector (configurable in settings).
+- keyless executor.
+- ad-free installation guidance
+
+## CONSTANT UPDATES!
+Solara is constantly evolving with regular updates, ensuring our users have access to the most efficient executor and latest features for their Roblox exploits.
+
+ Stay tuned as we continue to innovate and refine Solara to meet your evolving needs in Roblox exploting.
 
 ## HOW TO RUN ON WINDOWS
 
