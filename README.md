@@ -53,7 +53,7 @@ Solara is a powerful FOSS (Free and Open Source) exploit project conceived in 20
    - _(configurable in settings)._
 
 
-### ✔️ keyless executor.
+### ✔️ Keyless executor.
   - _**No key-system required**. Community funded and developed._
 
 
