@@ -11,6 +11,15 @@
 
 SOLARA is for educational purposes only, intended to help server owners develop a "hacker defense" attitude. This tool comes without any warranty.
 
+ ## Features !
+ - bug fixes.
+- improved bootstrapper.
+- improved backdoor injection.
+- Generate payloads in Various formats.
+- Bypass byfron.
+- new gui.
+- The ability to search updated scripts.
+- Automatically runs injector (in settings).
 
 ## HOW TO RUN ON WINDOWS
 
