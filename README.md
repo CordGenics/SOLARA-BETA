@@ -105,22 +105,22 @@ Solara is completely free and open source (**FOSS**) meaning that its source cod
 
 ### Change Log Version 2.33 - 2.35
 
-``` - Fixed getscriptbytecode on LocalScripts
+ ```- Fixed getscriptbytecode on LocalScripts
     - Vuln mitigation
-    - Removed incorrect link ```
+    - Removed incorrect link```
 
 ### Change Log Version 2.45-2.55
  
-``` - Fixed bootstrapper Solara.dir issue
- - Improved GUI
- - Fixed RCE ```
+ ```- Fixed bootstrapper Solara.dir issue
+    - Improved GUI
+    - Fixed RCE```
 
 
 ### Change Log Version 2.55 - 2.83
 
-``` - Fixed Solara baseplate issue
+ ```- Fixed Solara baseplate issue
     - Optimized for lower end devices.
-    - Increase customizability ```
+    - Increase customizability.```
   
 
 > [!NOTE]
@@ -131,8 +131,5 @@ Solara is completely free and open source (**FOSS**) meaning that its source cod
 [![Version](https://img.shields.io/badge/Contributers-yellow.svg?maxAge=259200)]()
 
 We greatly appreciate the ongoing contributions from our dedicated community. If you wish to report bugs, feel free to do so. Commits are greatly appreciated and acknowleged. 
-
-
-                                                                                    **©Solara**
 
 
