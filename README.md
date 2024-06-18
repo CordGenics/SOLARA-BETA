@@ -13,21 +13,34 @@ Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool dev
 
 ## STATISTICS
 • 50,000 **Monthly Active users**
+
 • 1,000,000 **Total downloads**
+
 • **99.42%** **Up-time**
 
 ## FEATURES
 [![Version](https://img.shields.io/badge/Presenting-darkgreen.svg?maxAge=259200)]()
 
-- **Improved bootstrapper.** - _**Extra customizability** options and **advanced settings** included._ 
-- **Enhanced backdoor injection.** - *No detection **GURANTEE***
-- **Generate payloads in various formats.** - _Save your scripts in lua, txt or any other format_
-- **Bypassed Byfron.** - (Works in base Roblox Client. **0 detections** reported by over 50,000 active users.)
-- **New GUI.** - _Seamless GUI developed based upon minimalist principles._ 
-- **Ability to search for updated scripts.** - _**Built in script library** for ease of access._ 
-- **Automatically runs injector** _(configurable in settings)._
-- **keyless executor.** - _**No key-system required**. Community funded and developed._
-- **52% Unc Support**: - _Benefit from unparalleled support with the Solara Executor._
+- **Improved bootstrapper.** 
+   - _**Extra customizability** options and **advanced settings** included._ 
+- **Enhanced backdoor injection.** - 
+    
+   - *No detection **GURANTEE***
+- **Generate payloads in various formats.** 
+   - _Save your scripts in lua, txt or any other format_
+- **Bypassed Byfron.** 
+   - (Works in base Roblox Client. **0 detections** reported by over 50,000 active users.)
+- **New GUI.** 
+    - _Seamless GUI developed based upon minimalist principles._ 
+- **Ability to search for updated scripts.** 
+    
+   - _**Built in script library** for ease of access._ 
+- **Automatically runs injector**
+   - _(configurable in settings)._
+- **keyless executor.** 
+  - _**No key-system required**. Community funded and developed._
+- **52% Unc Support**: 
+  - _Benefit from unparalleled support with the Solara Executor._
 - **Ad-free installation guidance.** - 
 - **Free Level 3 Executor**: 
 
