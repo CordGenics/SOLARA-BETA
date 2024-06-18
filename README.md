@@ -24,7 +24,7 @@ Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool dev
 - **✔️ Improved bootstrapper.** 
    - _**Extra customizability** options and **advanced settings** included._ 
 - **✔️ Enhanced backdoor injection.** - 
-   - *✔No detection assurance.**
+   - *No detection assurance.**
 - **✔️ Generate payloads in various formats.** 
    - _Save your scripts in .lua, .txt or any other format._
 - **✔️ Bypassed Byfron.** 
@@ -32,17 +32,17 @@ Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool dev
 - **✔️ New GUI.** 
     - _Seamless GUI developed based upon minimalist principles._ 
 - **✔️ Ability to search for updated scripts.** 
-   - _**✔️ Built in script library** for ease of access._ 
+   - _** Built in script library** for ease of access._ 
 - **✔️ Automatically runs injector**
    - _(configurable in settings)._
 - **✔️ keyless executor.** 
-  - _**✔️ No key-system required**. Community funded and developed._
+  - _**No key-system required**. Community funded and developed._
 - **✔️ 52% Unc Support**: 
   - _Benefit from unparalleled support with the Solara Executor._
 - **✔️ Ad-free installation guidance.** 
 - **✔️ Free Level 3 Executor**
 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolara-executor.com%2F&psig=AOvVaw0RO1sLeOXe77utuzB0Tv0K&ust=1718825017295000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKCTqa7w5YYDFQAAAAAdAAAAABAE](GUI)
+![GUI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolara-executor.com%2F&psig=AOvVaw0RO1sLeOXe77utuzB0Tv0K&ust=1718825017295000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKCTqa7w5YYDFQAAAAAdAAAAABAE)
 
 
 
@@ -90,11 +90,26 @@ _Source: Avira, Awardwinning Information Security research and mitigation compan
 Solara is completely free and open source (**FOSS**) meaning that its source code is **publicablly availble** to read and edit making viruses **IMPOSSIBLE** to obfuscate. It is also the longest continously working exploits since 2023. Relative to other executors, Solara is the only existing executor that is FOSS.
 
 
-## CONSTANT UPDATES
-Solara is constantly evolving with regular updates, ensuring our users have access to the most efficient executor and latest features for their Roblox exploits.
+## CHANGELOGS
 
- Stay tuned as we continue to innovate and refine Solara to meet your evolving needs in Roblox exploting.
+### Change Log Version 2.33 - 2.35
 
+    - Fixed getscriptbytecode on LocalScripts
+    - Vuln mitigation
+    - Removed incorrect link
+
+### Change Log Version 2.45-2.55
+ 
+- Fixed bootstrapper Solara.dir issue
+- Improved GUI
+- Fixed RCE
+
+### Change Log Version 2.55 - 2.83
+
+- Fixed Solara baseplate issue
+- Optimized for lower end devices.
+- Increase customizability
+  
 
 > [!NOTE]
 > This is a **DEVELOPER  ONLY** snapshot set to release at Solara 2.82.
