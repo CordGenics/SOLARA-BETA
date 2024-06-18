@@ -51,6 +51,10 @@ Once extracted, navigate to the files and double-click on Solarabootstrapper.exe
 
 Take a look at the source code for more details.
 
+## Contributions to Solara:
+
+We greatly appreciate the ongoing contributions from our dedicated community, which continue to enrich and enhance Solara's capabilities for Roblox exploiters worldwide.
+
 ## DISCLAIMER
 
 SOLARA is for educational purposes only, intended to help server owners develop a "hacker defense" attitude. This tool comes without any warranty.
