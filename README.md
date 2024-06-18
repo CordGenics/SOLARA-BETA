@@ -64,7 +64,7 @@ _Source: Avira, Awardwinning Information Security research and mitigation compan
 
 **is Solara safe?** 
 
-Solara is completely free and open source (**FOSS**) meaning that its source code is **publicablly availble** to read and edit making viruses **IMPOSSIBLE** to obfuscate. It is also the longest continously working exploits since 2023. Solara has the highest up-time out of any major executor and also has the largest user base. Relative to other executors, Solara is the only existing executor that is FOSS.
+Solara is completely free and open source (**FOSS**) meaning that its source code is **publicablly availble** to read and edit making viruses **IMPOSSIBLE** to obfuscate. It is also the longest continously working exploits since 2023. Relative to other executors, Solara is the only existing executor that is FOSS.
 
 
 ## CONSTANT UPDATES!
