@@ -1,5 +1,9 @@
 # SOLARA-BETA
 
+[![Version](https://img.shields.io/badge/TheFatRat-1.9.8-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Codename-Target-red.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Testing-brightgreen.svg)]()
+
 ## INFO
 
 SOLARA BETA BREACHED BY CORDGENICS
