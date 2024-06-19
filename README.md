@@ -87,7 +87,7 @@ After that, unzip the file using WinRAR or 7-Zip.
 
 1. Open your Roblox Process.
 2. Navigate to 'SolaraBootstrapper'
-3. Right click and run the file **WITH _Admistrator_** permissions 
+3. Right click and run the file **WITH _Administrator_** permissions 
 
 > [!TIP]
 > Running with admistrator permissions helps fix injection issues. 
